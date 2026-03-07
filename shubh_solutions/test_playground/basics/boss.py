@@ -1,6 +1,6 @@
 choice = 'y'
 
-while choice.lower =='y' : # make 'Y' valid too
+while choice.lower() =='y' : # make 'Y' valid too
     try:
         # typecast the below 2 to a list
         
